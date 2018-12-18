@@ -1,0 +1,1 @@
+{"version":3,"file":"main.02d4ebba709f3882242a.bundle.js","sources":["webpack:///./src/utils/dateFormat.js"],"sourcesContent":["import dayjs from 'dayjs';\n\nconst startDatetimeJa = date => dayjs(date).format('YYYY年MM月DD日 HH:mm〜');\n\nexport default {\n  startDatetimeJa,\n};\n"],"mappings":"AAAA","sourceRoot":""}
